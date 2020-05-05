@@ -1,0 +1,20 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "A repository to practice my testing skills using Jest as a testing framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SantiagoGuerra/testing-practice.git"
+  },
+  "keywords": [],
+  "author": "Santiago Guerra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SantiagoGuerra/testing-practice/issues"
+  },
+  "homepage": "https://github.com/SantiagoGuerra/testing-practice#readme"
+}
